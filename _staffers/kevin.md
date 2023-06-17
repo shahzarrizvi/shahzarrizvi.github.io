@@ -1,5 +1,5 @@
 ---
-name: Kevin Lin
+name: Salil
 role: Instructor
 email: me@example.com
 website: https://kevinl.info
