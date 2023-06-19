@@ -27,7 +27,7 @@ The class does not allow time conflicts. **You are expected to attend all the se
 
 - Lecture meets Mondays, Tuesdays, Wednesdays, and Thursdays, 10:30 AM to 12:00 PM in McCone 141.
 - Discussion meets Tuesdays and Thursdays, 2:00 PM - 4:00 PM. 
-- There will be numerous office hours held by the instructors and course staff; days and times TBA.
+- There will be numerous office hours held by the instructors and course staff; please see the [schedule](http://stat88.org/schedule).
 
 Student participation and informal conversation will be encouraged during all lectures and sections. You are expected not only to attend but also to participate. We will not take attendance. Rather, we'll make sure that participating in the sessions is an effective and efficient way to learn. 
 
@@ -43,40 +43,31 @@ Homework will be assigned at the start of each week and will be due the followin
 
 Data 88S is essentially a math class. Homework will largely consist of math and interpretation, with little to no code.
 
-**Late assignments will not be accepted**. But if you have DSP accommodations for extended time on assignments, please make sure we receive your DSP accommodation letter by the second week of classes. We will contact you about arrangements. 
+[UPDATE THIS WITH EXTENSION POLICY] **Late assignments will not be accepted**. But if you have DSP accommodations for extended time on assignments, please make sure we receive your DSP accommodation letter by the second week of classes. We will contact you about arrangements. 
 
 Homework must be submitted on Gradescope. Please **follow all submission instructions**. Not doing so will result in no credit and no regrade request allowed for the work. It is your responsibility to make sure your submission is complete.
 
 **Homework will be graded based on correctness**. We encourage you to use the plentiful support available from the instructors and course staff, and to get started as early as possible. Turning in work that you understand well and know to be correct is by far the most efficient way to succeed in the class.
 
-Please keep in mind that **homework assigned each week is based on the material covered in the same week, not in the previous week.** The first two exercises (and possibly more) of each week's homework will be based on material covered on Tuesday. So you will be able to start homework as soon as it is assigned, though many students prefer to wait till after section on Wednesday.
+Please keep in mind that **homework assigned each week is based on the material covered in the same week, not in the previous week.** The problems in the homework will follow the order of the lectures that week. So you will be able to start homework as soon as it is assigned, though many students prefer to wait till after section on Tuesday.
 
 
 ### Quizzes and Exams ###
 
-- **Quizzes** will be held three times during the term in section. You must take your quizzes **in the discussion section to which you are assigned.** 
-    - Quiz 1: Wednesday 2/1
-    - Quiz 2: Wednesday 3/22
-    - Quiz 3: Wednesday 4/12
-- **Midterm** Friday March 3rd, will be held during the normal lecture time.
-- **Final Exam** Tuesday 5/9 from 8am-11am (Exam Group 5). It is your responsibility to make sure that you are not enrolled in a class that has a conflicting final exam. You **must take the final in order to pass the class**.
+- **Quizzes** will be held [WHEN]. [MORE INFO ABOUT QUIZZES]
+- The **Final** exam will be held on Thursday, August 10th from 10:30 AM - 1:30 PM. It is your responsibility to make sure that you are not enrolled in a class that has a conflicting final exam. You **must take the final in order to pass the class**.
 
-There will be **no alternate quizzes or exams** except as required by campus rules. If you have extended time accommodations for tests from DSP, please make sure that you have enough available hours around the times of the regularly scheduled tests. This is particularly important for the midterm and the final. Also, please make sure we receive your official DSP accommodation letter at least one week before the first test for which you need the accommodations, so we can make the necessary arrangements.
+There will be **no alternate quizzes or exams** except as required by campus rules. If you have extended time accommodations for tests from DSP, please make sure that you have enough available hours around the times of the regularly scheduled tests. This is particularly important for the final. Also, please make sure we receive your official DSP accommodation letter at least one week before the first test for which you need the accommodations, so we can make the necessary arrangements.
 
 
 ### Grades ###
 We strongly recommended that you turn in all assignments even if you can only complete some of them partially. However, to give you some leeway in case of illness and emergencies, we will drop the following in the calculation of your overall score:
 
-- your two lowest homework scores
-- your lowest quiz score
+- [DROPS]
 
 Course grades will be assigned using the following weights: 
 
-- 20% Homework
-- 20% Quizzes
-- 20% Midterm
-- 30% Final 
-- 10% max(midterm, final)
+- [WEIGHTS]
 
 Grades will be based on a combination of absolute cutoffs and the distribution of overall scores.
 

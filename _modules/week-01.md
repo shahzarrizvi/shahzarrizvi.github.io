@@ -1,23 +1,15 @@
 ---
-title: Introduction to Java
+title: Week 1
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+Jun 20
+: **Lecture 1**{: .label .label-lecture } Fundamentals, exact calculations, and bounds
+: [**Homework 1**{: .label .label-hw }](https://stat88.org) (due Jun 26 at 11:59 PM)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+Jun 21
+: **Lecture 2**{: .label .label-lecture } The rules; intersections and conditioning
+: **Section 1**{: .label .label-disc }
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+Jun 22
+: **Lecture 3**{: .label .label-lecture } Updating chances; independence
+: **Section 2**{: .label .label-disc }
