@@ -1,13 +1,9 @@
 ---
 layout: home
-title: Data 88S
-nav_exclude: true
-permalink: /:path/
-seo:
-  type: Course
-  name: Data 88S
+title: Home
+nav_order: 1
+description: A week-to-week description of the content covered in the course.
 ---
-
 Welcome to Data 88S!
 
 Lecture: 10:30 AM - 12:00 PM in McCone 141 on Mondays, Tuesdays, Wednesdays, and Thursdays. 
