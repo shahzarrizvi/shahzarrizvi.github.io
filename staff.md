@@ -15,12 +15,12 @@ Staff information is stored in the `_staffers` directory and rendered according 
 {{ staffer }}
 {% endfor %}
 
-{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
-{% assign num_teaching_assistants = teaching_assistants | size %}
-{% if num_teaching_assistants != 0 %}
-## Teaching Assistants
+{% assign staff = site.staffers | where: 'team', 'Staff' %}
+{% assign num_staff = staff | size %}
+{% if num_staff != 0 %}
+## Course Staff
 
-{% for staffer in teaching_assistants %}
+{% for staffer in staff %}
 {{ staffer }}
 {% endfor %}
 {% endif %}
