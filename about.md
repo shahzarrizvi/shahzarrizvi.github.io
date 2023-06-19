@@ -5,7 +5,7 @@ description: >-
     Course policies and information.
 ---
 
-# About
+# About Data 88S
 {:.no_toc}
 
 ## Table of contents
@@ -16,18 +16,34 @@ description: >-
 
 ---
 
-## About
+## What is Data 88S? ##
+The official number of Data 88S is Data/Stat C88S. That numbering indicates that it the course is cross-listed in Data and Statistics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+Data 88S is an introduction to the theoretical underpinnings of the methods used in [Data 8](https://www.inferentialthinking.com/chapters/intro.html). It is intended for students who have taken some calculus and 
 
-## Lecture
+- are intending to major in areas that require a strong foundation in probability and mathematical statistics, or 
+- are intending to minor in data science and want to see how theory and practice can enhance each other.
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+Data 88S will prepare students well for the probability and theoretical statistics that is covered in Data 100 and Data 131A.
 
-## Resources
+## What requirements does Data 88S satisfy? ##
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+- Along with Data 8, Data 88S satisfies the Statistics requirement for the Economics and Business Administration majors.
+- Data 88S satisfies the probability requirement of the minor in Data Science.
 
-## Assignments
+## Who can take Data 88S? ##
+Data 88S is restricted to students who:
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+- Have not taken Stat 134, 140, 135, or 102; no credit will be given for Data 88S after these courses.
+- Have taken one semester of calculus at the level of Math 16A, Math 10A, or Math 1A.
+- Have taken or are currently taking Data 8 (DATA/CS/STAT/INFO C8)
+
+All of the requirements are enforced because the course has been designed specifically for students who have the above background in math, programming, and statistical inference. 
+
+## What is the best way to succeed in Data 88S? ##
+
+- Participate in lecture and discussion sections. The course staff do their best to create effective, efficient, and enjoyable sessions for students to learn.
+- Read the textbook or your lecture notes, and go over the problems done in section, _before_ attempting the homework. You should not expect to simply remember everything from lecture and section, especially after the first couple of weeks. If you have time, do the remaining problems in the textbook.
+- Make a serious attempt at exercises by yourself before you seek help. The only way to become an independent problem solver (and, incidentally, to succeed in exams) is to try to solve problems independently. Your goal should be to increase the fraction of work you do by yourself, as the semester progresses.
+- Study concepts, not formulas. Don’t scroll fast through the words in the textbook and only stop when you spot a formula. Learn how ideas fit together; don’t memorize solutions to exercises. Problems in exams (and in your next class or research or job) won’t fit neatly into boxes that you have seen before.
+- Use Ed, go to office hours, make friends with whom you can study. But if you have friends who always seem to know how to do the problems while you don’t, thank them nicely and then politely ask them to go away. Yes, really. Staff will be happy to help you figure out the best way for you to begin to take charge of the material.

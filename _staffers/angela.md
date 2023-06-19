@@ -4,7 +4,6 @@ pronouns: she/her
 team: Staff
 role: Teaching Assistant
 email: anfeng2
-website: stat88.org
 photo: angela.jpg
 ---
 

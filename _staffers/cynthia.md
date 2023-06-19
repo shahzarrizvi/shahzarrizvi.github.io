@@ -3,7 +3,6 @@ name: Cynthia
 team: Staff
 role: Reader
 email: cynthiagao
-website: stat88.org
 photo: cynthia.jpg
 ---
 

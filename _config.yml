@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Just the Class
-tagline: A Jekyll template for course websites
-description: A modern, highly customizable, responsive Jekyll template for course websites
-author: Kevin Lin
-baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
-url: 'https://kevinl.info' # the base hostname & protocol for your site, e.g. http://example.com
+title: Data 88S
+tagline: Probability and Mathematical Statistics for Data Science
+description: The course website for UC Berkeley's Data C88S course.
+author: Shahzar
+#baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
+url: 'https://stat88.org' # the base hostname & protocol for your site, e.g. http://example.com
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -31,15 +31,17 @@ exclude:
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.5.2
-color_scheme: light
+color_scheme: dark
 search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+  Textbook:
+    - 'https://stat88.org/textbook'
+  Ed:
+    - 'https://edstem.org/us/courses'
+  Gradescope:
+    - 'https://gradescope.com/courses'
 footer_content:
 
 # Collections for website data

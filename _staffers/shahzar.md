@@ -2,7 +2,7 @@
 name: Shahzar
 role: Instructor
 email: shahzar
-website: shahzarrizvi.github.io
+website: https://shahzarrizvi.github.io
 photo: shahzar.jpg
 ---
 
