@@ -6,13 +6,13 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Shahzar
 middle_name: 
 last_name: 
-email: shahzar@berkeley.edu
+email: shahzar@mit.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Shahzar's personal website.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords: shahzar, shahzar rizvi, academic-website, portfolio-website, statistics, bayesian  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 📈  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -40,7 +40,7 @@ repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-s
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -107,7 +107,7 @@ permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
 
 # Comments
 disqus_shortname: al-folio # put your disqus shortname
