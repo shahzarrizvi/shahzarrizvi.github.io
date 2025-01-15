@@ -15,8 +15,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student in [Tamara Broderick](https://tamarabroderick.com/)'s group at the MIT Laboratory for Information and Decision Systems. Previously, I received my master's in statistics from UC Berkeley in May 2024 and my bachelors' in mathematics, computer science, and statistics from UC Berkeley in December 2021. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+During my master's at Berkeley, I had the pleasure and privilege of working with [Ryan Giordano](https://rgiordan.github.io/about.html) in the Berkeley Department of Statistics, [Benjamin Nachman](https://nachmangroup.github.io/html/People.html) at the Lawrence Berkeley National Laboratory, and [Nathan Lo](https://med.stanford.edu/lo-lab.html) at Stanford Medicine. Before that, I also had the opportunity to work with PhD students [Jake Soloff](https://jake-soloff.github.io/) and [Runjing Liu](https://runjing-liu120.github.io/) in the Berkeley Department of Statistics during  my undergraduate.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am broadly interested in Bayesian inference, robust statistics, and trustworthy data science.
+
+
